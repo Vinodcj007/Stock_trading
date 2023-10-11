@@ -1,5 +1,5 @@
 # Stock_trading
 Stock market indicator
-<b>
+<br>
 Author -Vinod Jadhav
 
